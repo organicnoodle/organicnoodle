@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @organicnoodle
-- 👀 I’m interested in Learnig to code.
+- 👀 I’m interested in Learnig to code and have fun!!.
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me I'm not giving any personal info.
